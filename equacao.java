@@ -3,7 +3,7 @@ import java.util.*;
 import java.lang.Math.*;
 
 public class Main {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the value of a: ");
         double a = input.nextDouble();
