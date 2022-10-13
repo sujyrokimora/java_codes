@@ -4,7 +4,7 @@ import static java.lang.Math.*;
 
 
 public class main {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
 
         //byte test=100;
