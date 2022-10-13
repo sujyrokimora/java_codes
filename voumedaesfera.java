@@ -7,6 +7,6 @@ public class Main {
         double r = 2.0;
         double v = 0;
 
-        System.out.println("O volume da esfera é " + 0.75*Math.PI* Math.pow(r,3));
+         System.out.println("O volume da esfera é " + (float)4/(float)3*Math.PI* Math.pow(r,3));
     }
 }
