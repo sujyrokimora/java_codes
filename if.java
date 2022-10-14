@@ -8,7 +8,7 @@ public class Main {
         int a;
         a= input.nextInt();
 
-        if(a>10)//if bigger then 10 runs the print
+        if(a>10)//if bigger than 10 runs the print
         {
             System.out.println("É maior");
         }
