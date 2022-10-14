@@ -5,8 +5,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int a;
-        a= input.nextInt();
+         int a= input.nextInt();
 
         if(a>10)//if bigger than 10 runs the print
         {
