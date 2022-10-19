@@ -5,7 +5,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         //mes();//maneira merda
-        String[] b ={"Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"};//array with all the months in portuguese
+       /*nao demos isto!!*/ String[] b ={"Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"};//array with all the months in portuguese
         Scanner input = new Scanner(System.in);
         int c= input.nextInt();//ask for an input
         System.out.println(b[c-1]);// says the month based on the array
