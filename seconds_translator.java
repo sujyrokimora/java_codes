@@ -21,7 +21,7 @@ public class Main {
             // position 1 is equivalent to minute
             // position 2 is equivalent to second
             int fullseconds = (Integer.parseInt(fulltime[0]) * 3600) + (Integer.parseInt(fulltime[1]) * 60) + Integer.parseInt(fulltime[2]);
-            System.out.println("\n This is equal to " + fullseconds + "seconds");
+            System.out.println("\n This is equal to " + fullseconds + " seconds");
         }
     }
 
