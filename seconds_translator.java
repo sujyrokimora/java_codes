@@ -3,11 +3,9 @@ import java.util.*;
 import java.math.*;
 import java.time.*;
 
-
 public class Main {
     public static void main(String[] args) {
         time();
-
     }
     public static void time() {
         System.out.println("\n Insert a time using : to separate it (format HH:mm:ss)");
